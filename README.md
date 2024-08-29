@@ -37,6 +37,6 @@ The Weather Search App is a sleek and intuitive web platform designed to deliver
     ```
 5. #### Open your browser and navigate to:
      ```bash
-    
+    https://o-logn-labs-001-frontend-assignment-1ffd.vercel.app/
     ```
 ## For any queries related to the project, contact at singhdikshant200@gmail.com
